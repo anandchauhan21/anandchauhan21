@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--START_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253.svg)](https://wakatime.com/@ffe34524-ad67-4cfb-92f9-51f9a9fee253)
+<!--END_SECTION:waka-->
 
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Image Processing, Biometrics and Pattern Recognition.
 
@@ -51,5 +55,3 @@ Here are some ideas to get you started:
 
 -->
 
-
-[![wakatime](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942.svg)](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942)
