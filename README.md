@@ -31,3 +31,15 @@ Here are some ideas to get you started:
   <img align="left" alt="Anand's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
 </a>
 <br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandchauhan21&show_icons=true&theme=radical)
+
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats)
+-->
