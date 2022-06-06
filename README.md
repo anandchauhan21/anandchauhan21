@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Image Processing, Biometrics and Pattern Recognition.
 
 💬 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
@@ -49,5 +50,6 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-[![wakatime](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942.svg)](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942)
 
+
+[![wakatime](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942.svg)](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942)
