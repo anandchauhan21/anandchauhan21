@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <br/>
-[![wakatime](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942.svg)](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942)
+
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
+[![wakatime](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942.svg)](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253/project/8541c91a-52a5-4b9f-a960-e85922d14942)
+
