@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-
 [![wakatime](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253.svg)](https://wakatime.com/@ffe34524-ad67-4cfb-92f9-51f9a9fee253)
 <!--END_SECTION:waka-->
 
