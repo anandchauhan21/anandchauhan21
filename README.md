@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Connect
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/anandchauhan21/">
   <img align="left" alt="Anand's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
@@ -39,6 +39,17 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <br/>
+<!--
+🔵 **Connect with me:**
+[![Follow](https://img.shields.io/twitter/follow/anand_chauhan21?style=social)](https://twitter.com/anand_chauhan21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandchauhan21/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/dataprofessor/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/data.professor/)
+
+-->
+
+
 
 
 <!--
