@@ -27,13 +27,11 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/anandchauhan21/">
-  <img align="left" alt="Anand's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
-</a>
+  <img align="left" alt="Anand's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" /></a>
 
-</a>
+
 <a href="https://twitter.com/anand_chauhan21">
-  <img align="left" alt="Anand's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
-</a>
+  <img align="left" alt="Anand's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" /></a>
 <br/>
 <br/>
 
@@ -74,4 +72,4 @@ https://github.com/anuraghazra/github-readme-stats
 -->
 
 
-              
+![](https://komarev.com/ghpvc/?username=anandchauhan21)
