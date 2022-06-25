@@ -10,20 +10,6 @@
 
 👯 I'm interested in collaborating, mentoring, and coaching with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an [email](anandchauhan8791@gmail.com)!
 
-<!--
-**anandchauhan21/anandchauhan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/anandchauhan21/">
@@ -34,10 +20,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Anand's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" /></a>
 <br/>
 <br/>
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact)](#) 
 <br/>
-<!--
+
 🔵 **Connect with me:**
 [![Follow](https://img.shields.io/twitter/follow/anand_chauhan21?style=social)](https://twitter.com/anand_chauhan21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandchauhan21/)
@@ -46,22 +32,12 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/data.professor/)
 
 https://github.com/anuraghazra/github-readme-stats
--->
 
-
-
-
-<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandchauhan21&show_icons=true&theme=radical)
 
-
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
