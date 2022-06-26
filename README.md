@@ -1,8 +1,13 @@
 ### Hi there, I'm [Anand Chauhan](https://in.linkedin.com/in/anandchauhan21)👋
-             
+
+## I ❤️... 
+
+![](/HeavenlyTatteredGordonsetter-size_restricted.gif)
+           
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/ffe34524-ad67-4cfb-92f9-51f9a9fee253.svg)](https://wakatime.com/@ffe34524-ad67-4cfb-92f9-51f9a9fee253)
 <!--END_SECTION:waka-->
+
 
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Image Processing, Biometrics and Pattern Recognition.
 
@@ -52,5 +57,6 @@ https://github.com/anuraghazra/github-readme-stats
 
 <br>
 <br>
+
 
 ![](https://komarev.com/ghpvc/?username=anandchauhan21)
