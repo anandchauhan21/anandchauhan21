@@ -1,5 +1,5 @@
 ### Hi there, I'm [Anand Chauhan](https://in.linkedin.com/in/anandchauhan21)👋
-
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats) -->
 ## I ❤️... 
 
 ![](/HeavenlyTatteredGordonsetter-size_restricted.gif)
