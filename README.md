@@ -23,6 +23,9 @@
 
 <a href="https://twitter.com/anand_chauhan21">
   <img align="left" alt="Anand's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" /></a>
+  
+  
+[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/anandchauhan8791/)
 <br/>
 <br/>
 <!--
