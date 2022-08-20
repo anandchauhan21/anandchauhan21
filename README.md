@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact)](#) 
 <br/>
 
-🔵 **Connect with me:**
+
 [![Follow](https://img.shields.io/twitter/follow/anand_chauhan21?style=social)](https://twitter.com/anand_chauhan21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandchauhan21/)
 
