@@ -63,7 +63,7 @@ https://github.com/anuraghazra/github-readme-stats
 <br>
 <br>
 
- [Reume](https://drive.google.com/file/d/15xStDH8OSRkrxFtGpA9nZKSfpeyrRDWB/view)
+ [Resume](https://drive.google.com/file/d/15xStDH8OSRkrxFtGpA9nZKSfpeyrRDWB/view)
 	
 
 ![](https://komarev.com/ghpvc/?username=anandchauhan21)
