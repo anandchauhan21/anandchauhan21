@@ -55,11 +55,12 @@ https://github.com/anuraghazra/github-readme-stats
 </a>
 -->
 <a href=#>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anandchauhan21&theme=midnight-purple&hide_border=true" />
+<a href=#>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact&theme=midnight-purple&hide_border=true" />
 </a>
 <br>
-<a href=#>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anandchauhan21&theme=midnight-purple&hide_border=true" />
+
 </a>
 <br>
 <br>
