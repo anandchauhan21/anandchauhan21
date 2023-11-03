@@ -1,4 +1,4 @@
-### Hi there, I'm [Anand Chauhan](https://in.linkedin.com/in/anandchauhan21)👋
+/### Hi there, I'm [Anand Chauhan](https://in.linkedin.com/in/anandchauhan21)👋
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats) -->
 ## I ❤️... 
 
@@ -57,6 +57,7 @@ https://github.com/anuraghazra/github-readme-stats
 <a href=#>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact&theme=midnight-purple&hide_border=true" />
 </a>
+<br>
 <a href=#>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anandchauhan21&theme=midnight-purple&hide_border=true" />
 </a>
