@@ -1,3 +1,4 @@
+
 ### Hi there, I'm [Anand Chauhan](https://linktr.ee/anandchauhan)👋
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats) -->
 ## I ❤️... 
@@ -28,44 +29,22 @@
 [![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/anandchauhan8791/)
 <br/>
 <br/>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact)](#) 
-<br/>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=anandchauhan21&theme=midnight-purple&hide_border=true&border_radius=1" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact&theme=midnight-purple&hide_border=true" />
+  </a>
+</div>
 
-[![Follow](https://img.shields.io/twitter/follow/anand_chauhan21?style=social)](https://twitter.com/anand_chauhan21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandchauhan21/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/dataprofessor/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/data.professor/)
-
-https://github.com/anuraghazra/github-readme-stats
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandchauhan21&show_icons=true&theme=radical)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anandchauhan21)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
-<a href=#>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anandchauhan21&theme=midnight-purple&hide_border=true" />
-<a href=#>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact&theme=midnight-purple&hide_border=true" />
-</a>
 <br>
-
-</a>
-<br>
-<br>
-
- [Resume](https://drive.google.com/file/d/15xStDH8OSRkrxFtGpA9nZKSfpeyrRDWB/view)
-	
 
 ![](https://komarev.com/ghpvc/?username=anandchauhan21)
+<br>
+
+---
+
+
+📄 [Resume](https://drive.google.com/file/d/15xStDH8OSRkrxFtGpA9nZKSfpeyrRDWB/view)
