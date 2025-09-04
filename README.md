@@ -10,13 +10,70 @@
 <!--END_SECTION:waka-->
 
 
-🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Image Processing, Biometrics and Pattern Recognition.
+---
 
-💬 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+## 👨‍💻 About Me  
 
-👯 I'm interested in collaborating, mentoring, and coaching with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an [email](anandchauhan8791@gmail.com)!
+- 🎓 Senior Technical Trainer & Assistant Professor (AI & Data Science) @ **Parul University**  
+- 🤖 Founder of **Sugarcoat Robot** – building robotics kits (*SugarbotOne*, *SugarbotMini*)  
+- 👨‍🏫 Robotics Faculty @ **Podar International School**, mentoring 900+ students in STEM  
+- 🎯 Subject Matter Expert in **Design of Data Structures (DDS)**  
+- 🔬 Passionate about **AI, Deep Learning, Computer Vision, NLP, Robotics & IoT**  
+- 💬 Mission: Build **AI-powered and robotics solutions** that solve real-world problems  
 
-### Connect with me:
+📫 Reach me: [anandchauhan8791@gmail.com](mailto:anandchauhan8791@gmail.com)  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🌿 Pomegranate & Leaf Disease Prediction  
+- CNN-based TensorFlow model that detects pomegranate fruit/leaf diseases from images.  
+- Provides **diagnosis + recommended treatments** to help farmers reduce losses.  
+🔗 [View Repository](https://github.com/anandchauhan21/pomegranate_disease_prediction)  
+
+### ☀️ Drought Prediction Using Satellite Data  
+- Leveraged **Google Earth Engine API + Python** to calculate **SPI (Standardized Precipitation Index)**.  
+- Forecasts **future drought conditions** with ML/TensorFlow models.  
+🔗 [View Repository](https://github.com/anandchauhan21/Drought-prediction)  
+
+### ⚡ Raspberry Pi Pico Drivers  
+- Wrote drivers in **MicroPython** for:  
+  - DHT22 (Temp & Humidity)  
+  - BH1750 (Light)  
+  - BMP180 (Barometric Pressure)  
+- Demonstrated sensor integration with OLED display.  
+🔗 [View Repository](https://github.com/anandchauhan21/RaspberryPi-Pico-Drivers)  
+
+### 📘 Design of Data Structures (DDS)  
+- Complete **courseware + labs + lesson plans** for students.  
+- ⭐ Most popular repo (~127 stars, 81 forks).  
+- Includes release `Ddsv1.0`.  
+🔗 [View Repository](https://github.com/anandchauhan21/Desing_of_Data_Structures)  
+
+### 📊 Design and Analysis of Algorithms (DAA)  
+- Structured syllabus, lesson plans, and practice notebooks.  
+- Focus on algorithm complexity and problem-solving.  
+🔗 [View Repository](https://github.com/anandchauhan21/Design_and_Analysis_of_Algorithm)  
+
+### 🔌 ESP 101  
+- Hands-on IoT experiments with **ESP8266/ESP32 boards**.  
+- Covers sensor integration and real-world applications.  
+🔗 [View Repository](https://github.com/anandchauhan21/esp_101)  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages:** Python, C/C++, MicroPython, Java  
+- **ML/DL Frameworks:** TensorFlow, Keras, OpenCV  
+- **Embedded Systems:** Raspberry Pi, Arduino, ESP32, mBot  
+- **Tools & Platforms:** Google Earth Engine, Jupyter, GitHub, VS Code  
+- **Domains:** AI & Data Science, Robotics, Computer Vision, STEM Education  
+
+---
+
+## 📊 GitHub Stats  
 
 <a href="https://www.linkedin.com/in/anandchauhan21/">
   <img align="left" alt="Anand's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" /></a>
