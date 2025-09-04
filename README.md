@@ -104,4 +104,4 @@
 ---
 
 
-📄 [Resume]([https://drive.google.com/file/d/15xStDH8OSRkrxFtGpA9nZKSfpeyrRDWB/view](https://drive.google.com/file/d/1Ssmb3zoDUa_8kPYrYuokOp7JPYCqMuxL/view?usp=sharing))
+📄 [Resume](https://drive.google.com/file/d/15xStDH8OSRkrxFtGpA9nZKSfpeyrRDWB/view)
