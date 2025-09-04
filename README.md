@@ -73,30 +73,8 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=anandchauhan21&theme=midnight-purple&hide_border=true&border_radius=1" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=anandchauhan21&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=1" />
   </a>
-</div>  
-
-![](https://komarev.com/ghpvc/?username=anandchauhan21)  
-
----
-
-## 🌐 Connect with Me  
-
-<a href="https://www.linkedin.com/in/anandchauhan21/">
-  <img align="left" alt="Anand's LinkedIn" width="25px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" /></a>
-
-<a href="https://twitter.com/anand_chauhan21">
-  <img align="left" alt="Anand's Twitter" width="25px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" /></a>
-
-[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/anandchauhan8791/)  
-
-<br/>  
-<br/>  
-
-📄 [Resume](https://drive.google.com/file/d/15xStDH8OSRkrxFtGpA9nZKSfpeyrRDWB/view)  
-
----
-
-⭐️ *If you find my work useful, please consider starring my repositories!*  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandchauhan21&layout=compact&theme=midnight-purple&hide_bor_
