@@ -15,6 +15,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 Senior Technical Trainer & Assistant Professor (AI & Data Science) @ **Parul University**  
+- Resource person @ sardar Patel University
 - 🤖 Founder of **Sugarcoat Robot** – building robotics kits (*SugarbotOne*, *SugarbotMini*)  
 - 👨‍🏫 Robotics Faculty @ **Podar International School**, mentoring 900+ students in STEM  
 - 🎯 Subject Matter Expert in **Design of Data Structures (DDS)**  
